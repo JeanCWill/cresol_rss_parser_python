@@ -1,1 +1,1 @@
-Um projeto fantástico
+Parser de notícias do feed da Cresol
